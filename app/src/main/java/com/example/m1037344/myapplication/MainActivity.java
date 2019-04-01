@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         Toast.makeText(this,"hello world 123",Toast.LENGTH_SHORT).show();
         System.out.println("Test project :");
         System.out.println("Test project abc :");
+        System.out.println("try generating apk :");
     }
 }
