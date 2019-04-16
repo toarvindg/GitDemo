@@ -15,4 +15,10 @@
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <Button android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:text="click"
+        android:gravity="center"
+        android:id="@+id/button"/>
+
 </android.support.constraint.ConstraintLayout>
